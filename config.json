@@ -1,7 +1,7 @@
 {
     "api_keys": {
         "openai": "API KEY HERE",
-        "gemini": "AIzaSyDpUqKSa_FWEeK8X7BXd_Gmf-vTaVSGHnk"
+        "gemini": "API KEY HERE"
     },
     "model": {
         "default": "gemini",
