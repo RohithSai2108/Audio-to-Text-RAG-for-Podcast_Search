@@ -1,0 +1,11 @@
+streamlit
+openai
+chromadb
+sentence-transformers
+whisper
+pydub
+librosa
+soundfile
+requests
+python-dotenv
+google-generativeai

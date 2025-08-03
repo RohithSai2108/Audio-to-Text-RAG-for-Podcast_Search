@@ -1,0 +1,23 @@
+{
+    "api_keys": {
+        "openai": "API KEY HERE",
+        "gemini": "AIzaSyDpUqKSa_FWEeK8X7BXd_Gmf-vTaVSGHnk"
+    },
+    "model": {
+        "default": "gemini",
+        "available": ["gemini", "openai"]
+    },
+    "audio": {
+        "supported_formats": ["mp3", "wav", "m4a", "flac", "ogg"],
+        "chunk_duration": 30
+    },
+    "search": {
+        "default_strategy": "semantic",
+        "default_results": 5,
+        "max_results": 20
+    },
+    "storage": {
+        "episodes_file": "data/processed_episodes.json",
+        "transcripts_dir": "data/transcripts"
+    }
+} 
